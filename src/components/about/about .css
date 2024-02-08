@@ -1,0 +1,10 @@
+.about_us {
+    position: relative;
+    z-index: 99;
+    background-image: url(../../asset/about_bg.png.webp);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 50% 90%;
+    display: flex;
+    flex-wrap: wrap !important;
+}

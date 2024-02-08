@@ -1,0 +1,42 @@
+
+
+p {
+    color: #666666;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.929;
+    font-size: 16px;
+    margin-bottom: 0px;
+    color: #888888;
+}
+
+.banner_part {
+    height: 800px;
+    position: relative;
+    overflow: hidden;
+    background-image: url(../../asset/banner_bg.png.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    ;
+    }
+
+
+    .banner_part .banner_text h1 {
+        font-size: 60px;
+        text-transform: capitalize;
+        font-weight: 700;
+        margin-bottom: 12px;
+        line-height: 1.2;
+    }
+
+
+
+
+
+.banner_part .banner_text h5 {
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #242429;
+    margin-bottom: 0;
+    font-family: "Roboto", sans-serif;
+}
