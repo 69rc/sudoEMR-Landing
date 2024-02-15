@@ -5,6 +5,7 @@ import Service from '@/components/services/Services'
 import About from  "@/components/about/About"
 import Fetures from  "@/components/features/Features"
 import Footer from '@/components/footer/footer';
+import Blog from "@/components/blog/blog"
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 
@@ -16,6 +17,7 @@ export default function Home() {
    <About/>
    <Service/>
    <Fetures/>
+   <Blog/>
    <Footer/>
    </>
   )

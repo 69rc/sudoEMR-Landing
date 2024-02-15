@@ -4,5 +4,16 @@
 
 .foot{
     color: #fff;
-    padding: 30px;
+    padding: 20px;
+}
+
+.social-icon{
+    color:#0070f3 ;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between !important;
+    padding-top: 50px;
+    
+   
+
 }
