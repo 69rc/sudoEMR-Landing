@@ -39,8 +39,8 @@ function Navbar() {
           </div>
           <div className="navlist">
           <div className={`Navbar-links ${isMenuOpen ? 'Navbar-links-open' : ''}`}>
-            <a href="/">Home</a>
-            <a href="/about">About</a>
+            <a href="/home">Home</a>
+            <a href="/About">About</a>
             <a href="/contact">Contact</a>
             <a href="">Features</a>
             <a href="">Blog</a>

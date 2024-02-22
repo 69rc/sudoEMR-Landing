@@ -1,4 +1,4 @@
-.our-features-card{
+.feature_card{
     position: relative;
     border: 1px solid #f2f6f8ee; 
     padding: 60px 15px 32px;
@@ -6,13 +6,13 @@
     transition: 1s;
 
 }
-.our-features-card:hover {
+.feature_card:hover {
     background: #0070f3;
     color: #fff !important;
   }
   
-  .our-features-card:hover > p{
-    color: #f2f6f8;
+  .feature_card:hover > p{
+    color: #f2f6f8 !important;
 
   }
   

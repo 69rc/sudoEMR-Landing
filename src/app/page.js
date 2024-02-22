@@ -7,6 +7,7 @@ import Fetures from  "@/components/features/Features"
 import Footer from '@/components/footer/footer';
 import Blog from "@/components/blog/blog"
 import 'bootstrap/dist/css/bootstrap.min.css'
+import ContactUs from '@/components/conatac-us/Contact-us';
 
 
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
    <Service/>
    <Fetures/>
    <Blog/>
+   <ContactUs/>
    <Footer/>
    </>
   )
